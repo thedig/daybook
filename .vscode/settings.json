@@ -1,0 +1,21 @@
+{
+    "editor.tabSize": 2,
+    "cSpell.ignoreWords": [
+        "arnel",
+        "bugsnag",
+        "component",
+        "component did unmount",
+        "did",
+        "gcal",
+        "jira",
+        "sitch",
+        "skedpal",
+        "unmount"
+    ],
+    "cSpell.words": [
+        "hacky",
+        "struct",
+        "structs",
+        "tada"
+    ]
+}
