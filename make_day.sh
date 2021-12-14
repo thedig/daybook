@@ -11,6 +11,8 @@ while getopts 'd:' flag; do
   esac
 done
 
+# Some unimportant script change
+
 
 if [[ ! -z "$day_argument" ]]; then
   day_to_generate=`date -v -${day_argument:0:3} +%F`
