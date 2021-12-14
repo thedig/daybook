@@ -11,8 +11,7 @@ while getopts 'd:' flag; do
   esac
 done
 
-# Some unimportant script change
-# Yet another change
+# Final test change?
 
 
 if [[ ! -z "$day_argument" ]]; then
