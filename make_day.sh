@@ -12,6 +12,7 @@ while getopts 'd:' flag; do
 done
 
 # Some unimportant script change
+# Yet another change
 
 
 if [[ ! -z "$day_argument" ]]; then
