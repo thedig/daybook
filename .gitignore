@@ -1,3 +1,5 @@
 logs/**
 follow-ups/**
 gists/**
+.DS_Store
+.vscode/settings.json

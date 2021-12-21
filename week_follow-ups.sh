@@ -12,6 +12,8 @@
 
 # ADD TOE SCRIPT: check if exists in /archive folder
 
+mkdir -p follow-ups
+
 weeks_back=${1:-1}
 days_back=`expr $weeks_back \* 7`
 

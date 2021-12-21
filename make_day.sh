@@ -1,6 +1,8 @@
 
 #!/bin/bash
 
+mkdir -p logs
+
 day_argument=""
 day_to_generate=""
 date_formatted=""
